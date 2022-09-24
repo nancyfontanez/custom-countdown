@@ -93,7 +93,7 @@ button {
   margin-top: 15px;
   border: none;
   text-transform: uppercase;
-  background: #006959;
+  background: #cf7702;
   color: white;
   cursor: pointer;
   outline: none;
@@ -134,24 +134,24 @@ li span {
 
 @keyframes complete {
   0% {
-    color: rgb(233, 12, 12);
+    color: rgb(128, 1, 1);
   }
 
   25% {
-    color: rgb(214, 193, 0);
+    color: rgb(131, 118, 1);
   }
 
   50% {
-    color: rgb(68, 231, 19);
+    color: rgb(32, 128, 2);
     transform: scale(1.5);
   }
 
   75% {
-    color: rgb(19, 79, 209);
+    color: rgb(2, 42, 128);
   }
 
   100% {
-    color: rgb(188, 16, 211);
+    color: rgb(111, 1, 126);
   }
 }
 
